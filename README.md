@@ -21,7 +21,7 @@ yay -S orphanhunter
 #### Using paru
 paru -S orphanhunter
 
-####Manual Installation
+#### Manual Installation
 
 If you prefer not to use a helper, you can build it from source:
 ```bash
@@ -29,7 +29,7 @@ git clone https://aur.archlinux.org/orphanhunter.git
 cd orphanhunter
 makepkg -si
 ```
-####Usage
+#### Usage
 
 To start scanning for orphaned files, simply run the tool from your terminal:
 
