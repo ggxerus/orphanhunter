@@ -19,8 +19,9 @@ orphanhunter is available in the Arch User Repository (AUR). You can install it 
 yay -S orphanhunter
 ```
 #### Using paru
+```bash
 paru -S orphanhunter
-
+```
 #### Manual Installation
 
 If you prefer not to use a helper, you can build it from source:
